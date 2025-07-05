@@ -59,25 +59,25 @@ SQL_museum_artist/
 
 ├── queries/
 
-│   ├── Consultas Avanzadas.sql          
+│  ├── Consultas Avanzadas.sql          
 
-│   ├── Consultas Faciles.sql       
+│  ├── Consultas Faciles.sql       
 
-│   └── Consultas Intermedias.sql   
+│  └── Consultas Intermedias.sql   
 
 ├── data/
 
-│   └── artist.cvs 
+│  └── artist.cvs 
 
-│   └── museum.cvs
+│  └── museum.cvs
 
-│   └── work.cvs 
+│  └── work.cvs 
 
 ├── Visualizacion_python/
 
-│   └── archivo ipynb/ 
+│  └── archivo ipynb/ 
 
-│     └── Visualizaciones_SQL 
+│    └── Visualizaciones_SQL 
 
 ├── README.md
 
