@@ -55,18 +55,30 @@ La base de datos contiene tres tablas principales:
 
 
 ## 📁 Estructura del repositorio
+SQL_museum_artist/
+
 ├── queries/
+
 │   ├── Consultas Avanzadas.sql          
+
 │   ├── Consultas Faciles.sql       
+
 │   └── Consultas Intermedias.sql   
+
 ├── data/
+
 │   └── artist.cvs 
+
 │   └── museum.cvs
+
 │   └── work.cvs 
+
 ├── Visualizacion_python/
+
 │   └── archivo ipynb/ 
+
 │     └── Visualizaciones_SQL 
- 
+
 ├── README.md
 
 
